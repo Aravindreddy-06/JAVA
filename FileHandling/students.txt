@@ -1,0 +1,10 @@
+1. Aravind, CSE, 8.5 CGPA
+2. Rahul, ECE, 7.8 CGPA
+3. Sneha, IT, 9.1 CGPA
+4. Kiran, MECH, 6.9 CGPA
+5. Priya, CSE, 8.8 CGPA
+6. Vikas, CIVIL, 7.2 CGPA
+7. Anjali, EEE, 8.0 CGPA
+8. Rohit, IT, 7.5 CGPA
+9. Meena, CSE, 9.3 CGPA
+10. Suresh, MECH, 6.8 CGPA
